@@ -18,23 +18,15 @@ darkmode: never
 # Social links
 # twitter_username: facespics
 github_username: yxxax
-# stackoverflow_username: "00000001"
-# dribbble_username: jekyll
-# facebook_username: jekyll
-# flickr_username: jekyll
-# instagram_username: jameswgrant
-# linkedin_username: jameswgrant
-# xing_username: jekyll
-# pinterest_username: jekyll
-# youtube_username: globalmtb
-# googleplus_username: +jekyll
-# orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
 additional_links:
   - title: Blog
-    icon: fas fa-globe
+    icon: fas fa-blog
     url: https://dev-you.tistory.com
+  # - title: Resume
+  #   icon: fas fa-user
+  #   url: https://yxxax.github.io/
 # additional_links:
 #   - title: itsgoingto.be
 #     icon: fas fa-globe
@@ -58,6 +50,10 @@ about_content: | # this will include new lines to allow paragraphs
   특히, 개발과 디자인의 접점에서 사용자 중심의 인터페이스를 만들어내는 과정에 깊이 흥미를 느끼고 있습니다.
   UI/UX 개선과 코드의 유지보수성을 중요하게 생각하며, 협업과 효율적인 코드 작성에 집중하고 있습니다.
   앞으로도 사용자 중심의 인터페이스를 고민하고 구현하며, 변화하는 기술을 탐구하는 개발자로 성장해 나가겠습니다.
+
+  이력서 주소:
+  <a href="https://yxxax.github.io/" style="display:flex; font-style:italic; text-align:center; font-size: 14px; color: #888;">
+  https://yxxax.github.io/</a>
 
 content:
   - title: Experience # Title for the section
