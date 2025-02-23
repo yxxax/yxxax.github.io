@@ -92,6 +92,8 @@ content:
             **관련 상세**
             <a href="https://tattered-swan-746.notion.site/19e3338acb8980e59101ca0ea35a35fe?pvs=4" style="display:flex; font-style:italic; text-align:center; font-size: 14px; color: #888;">
             상세 내용 확인</a>
+            <a href="https://youtu.be/r-AHey8QtzA" style="display:flex; font-style:italic; text-align:center; font-size: 14px; color: #888;">
+            영상</a>
 
           ---
 
@@ -170,6 +172,8 @@ content:
             **관련 상세**
             <a href="https://tattered-swan-746.notion.site/1a33338acb898052a81ec3b81117e83a?pvs=4" style="display:flex; font-style:italic; text-align:center; font-size: 14px; color: #888;">
             상세 내용 확인</a>
+            <a href="https://youtu.be/DEiW7aNPSnc" style="display:flex; font-style:italic; text-align:center; font-size: 14px; color: #888;">
+            영상</a>
 
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
@@ -227,8 +231,8 @@ content:
     content: | # this will include new lines to allow paragraphs
       Alongside my interests in networks and software engineering some of my other interests and hobbies are:
       - Workout & Stretching
-      - Mindfulness
       - Collecting stationery
+      - Watching Animation
 
 # Footer
 footer_show_references: true
